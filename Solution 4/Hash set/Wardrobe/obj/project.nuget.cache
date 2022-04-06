@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "g1gKvtd4dRJeZGNvnaXpzcl88vJFMz0h2hVMcpPsvsEm9s8CrnCHp01FN1D2YH/t2kATy76Rd7Zm9A1DG3Rmkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stasi\\OneDrive\\Desktop\\GitHub\\Softuni\\C# advanced\\READY UP\\Hash set\\Wardrobe\\Wardrobe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stasi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512",
+    "C:\\Users\\stasi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\stasi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\stasi\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

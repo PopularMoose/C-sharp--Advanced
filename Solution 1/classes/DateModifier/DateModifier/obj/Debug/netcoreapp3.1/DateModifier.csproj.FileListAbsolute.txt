@@ -1,0 +1,13 @@
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\DateModifier\DateModifier\bin\Debug\netcoreapp3.1\DateModifier.exe
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\DateModifier\DateModifier\bin\Debug\netcoreapp3.1\DateModifier.deps.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\DateModifier\DateModifier\bin\Debug\netcoreapp3.1\DateModifier.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\DateModifier\DateModifier\bin\Debug\netcoreapp3.1\DateModifier.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\DateModifier\DateModifier\bin\Debug\netcoreapp3.1\DateModifier.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\DateModifier\DateModifier\bin\Debug\netcoreapp3.1\DateModifier.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\DateModifier\DateModifier\obj\Debug\netcoreapp3.1\DateModifier.csproj.AssemblyReference.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\DateModifier\DateModifier\obj\Debug\netcoreapp3.1\DateModifier.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\DateModifier\DateModifier\obj\Debug\netcoreapp3.1\DateModifier.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\DateModifier\DateModifier\obj\Debug\netcoreapp3.1\DateModifier.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\DateModifier\DateModifier\obj\Debug\netcoreapp3.1\DateModifier.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\DateModifier\DateModifier\obj\Debug\netcoreapp3.1\DateModifier.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\DateModifier\DateModifier\obj\Debug\netcoreapp3.1\DateModifier.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Pascal Triangle\bin\Debug\net5.0\Pascal Triangle.exe
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Pascal Triangle\bin\Debug\net5.0\Pascal Triangle.deps.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Pascal Triangle\bin\Debug\net5.0\Pascal Triangle.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Pascal Triangle\bin\Debug\net5.0\Pascal Triangle.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Pascal Triangle\bin\Debug\net5.0\Pascal Triangle.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Pascal Triangle\bin\Debug\net5.0\ref\Pascal Triangle.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Pascal Triangle\bin\Debug\net5.0\Pascal Triangle.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Pascal Triangle\obj\Debug\net5.0\ref\Pascal Triangle.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.genruntimeconfig.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\matrix1\Pascal Triangle\bin\Debug\net5.0\Pascal Triangle.exe
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\matrix1\Pascal Triangle\bin\Debug\net5.0\Pascal Triangle.deps.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\matrix1\Pascal Triangle\bin\Debug\net5.0\Pascal Triangle.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\matrix1\Pascal Triangle\bin\Debug\net5.0\Pascal Triangle.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\matrix1\Pascal Triangle\bin\Debug\net5.0\Pascal Triangle.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\matrix1\Pascal Triangle\bin\Debug\net5.0\ref\Pascal Triangle.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\matrix1\Pascal Triangle\bin\Debug\net5.0\Pascal Triangle.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\matrix1\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.csproj.AssemblyReference.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\matrix1\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\matrix1\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\matrix1\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\matrix1\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\matrix1\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\matrix1\Pascal Triangle\obj\Debug\net5.0\ref\Pascal Triangle.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\matrix1\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\matrix1\Pascal Triangle\obj\Debug\net5.0\Pascal Triangle.genruntimeconfig.cache

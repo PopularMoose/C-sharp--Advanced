@@ -1,0 +1,16 @@
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Primal Diagonal\bin\Debug\net5.0\Primal Diagonal.exe
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Primal Diagonal\bin\Debug\net5.0\Primal Diagonal.deps.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Primal Diagonal\bin\Debug\net5.0\Primal Diagonal.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Primal Diagonal\bin\Debug\net5.0\Primal Diagonal.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Primal Diagonal\bin\Debug\net5.0\Primal Diagonal.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Primal Diagonal\bin\Debug\net5.0\ref\Primal Diagonal.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Primal Diagonal\bin\Debug\net5.0\Primal Diagonal.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Primal Diagonal\obj\Debug\net5.0\Primal Diagonal.csproj.AssemblyReference.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Primal Diagonal\obj\Debug\net5.0\Primal Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Primal Diagonal\obj\Debug\net5.0\Primal Diagonal.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Primal Diagonal\obj\Debug\net5.0\Primal Diagonal.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Primal Diagonal\obj\Debug\net5.0\Primal Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Primal Diagonal\obj\Debug\net5.0\Primal Diagonal.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Primal Diagonal\obj\Debug\net5.0\ref\Primal Diagonal.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Primal Diagonal\obj\Debug\net5.0\Primal Diagonal.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Primal Diagonal\obj\Debug\net5.0\Primal Diagonal.genruntimeconfig.cache

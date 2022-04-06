@@ -1,0 +1,20 @@
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\Even lines.exe
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\Even lines.deps.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\Even lines.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\Even lines.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\Even lines.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\ref\Even lines.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\Even lines.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\obj\Debug\net5.0\Even lines.csproj.AssemblyReference.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\obj\Debug\net5.0\Even lines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\obj\Debug\net5.0\Even lines.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\obj\Debug\net5.0\Even lines.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\obj\Debug\net5.0\Even lines.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\obj\Debug\net5.0\Even lines.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\obj\Debug\net5.0\ref\Even lines.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\obj\Debug\net5.0\Even lines.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\obj\Debug\net5.0\Even lines.genruntimeconfig.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\copyMe.png
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\expectedResult.txt
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\text.txt
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\words.txt

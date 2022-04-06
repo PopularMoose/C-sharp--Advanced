@@ -1,0 +1,13 @@
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\Classes\Difine classes\bin\Debug\netcoreapp3.1\Difine classes.exe
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\Classes\Difine classes\bin\Debug\netcoreapp3.1\Difine classes.deps.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\Classes\Difine classes\bin\Debug\netcoreapp3.1\Difine classes.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\Classes\Difine classes\bin\Debug\netcoreapp3.1\Difine classes.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\Classes\Difine classes\bin\Debug\netcoreapp3.1\Difine classes.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\Classes\Difine classes\bin\Debug\netcoreapp3.1\Difine classes.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\Classes\Difine classes\obj\Debug\netcoreapp3.1\Difine classes.csproj.AssemblyReference.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\Classes\Difine classes\obj\Debug\netcoreapp3.1\Difine classes.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\Classes\Difine classes\obj\Debug\netcoreapp3.1\Difine classes.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\Classes\Difine classes\obj\Debug\netcoreapp3.1\Difine classes.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\Classes\Difine classes\obj\Debug\netcoreapp3.1\Difine classes.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\Classes\Difine classes\obj\Debug\netcoreapp3.1\Difine classes.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\classes\Classes\Difine classes\obj\Debug\netcoreapp3.1\Difine classes.genruntimeconfig.cache

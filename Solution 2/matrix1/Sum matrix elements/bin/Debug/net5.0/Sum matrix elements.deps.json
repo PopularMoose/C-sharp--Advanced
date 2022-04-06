@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sum matrix elements/1.0.0": {
+        "runtime": {
+          "Sum matrix elements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sum matrix elements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

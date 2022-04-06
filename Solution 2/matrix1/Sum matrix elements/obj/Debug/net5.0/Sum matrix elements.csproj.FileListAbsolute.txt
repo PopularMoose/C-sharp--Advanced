@@ -1,0 +1,16 @@
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Sum matrix elements\bin\Debug\net5.0\Sum matrix elements.exe
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Sum matrix elements\bin\Debug\net5.0\Sum matrix elements.deps.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Sum matrix elements\bin\Debug\net5.0\Sum matrix elements.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Sum matrix elements\bin\Debug\net5.0\Sum matrix elements.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Sum matrix elements\bin\Debug\net5.0\Sum matrix elements.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Sum matrix elements\bin\Debug\net5.0\ref\Sum matrix elements.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Sum matrix elements\bin\Debug\net5.0\Sum matrix elements.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Sum matrix elements\obj\Debug\net5.0\Sum matrix elements.csproj.AssemblyReference.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Sum matrix elements\obj\Debug\net5.0\Sum matrix elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Sum matrix elements\obj\Debug\net5.0\Sum matrix elements.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Sum matrix elements\obj\Debug\net5.0\Sum matrix elements.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Sum matrix elements\obj\Debug\net5.0\Sum matrix elements.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Sum matrix elements\obj\Debug\net5.0\Sum matrix elements.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Sum matrix elements\obj\Debug\net5.0\ref\Sum matrix elements.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Sum matrix elements\obj\Debug\net5.0\Sum matrix elements.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\Sum matrix elements\obj\Debug\net5.0\Sum matrix elements.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Streams,files and directories/1.0.0": {
+        "runtime": {
+          "Streams,files and directories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Streams,files and directories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

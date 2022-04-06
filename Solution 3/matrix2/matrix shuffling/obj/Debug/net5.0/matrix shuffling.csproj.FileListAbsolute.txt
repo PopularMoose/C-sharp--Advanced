@@ -1,0 +1,16 @@
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\matrix shuffling\bin\Debug\net5.0\matrix shuffling.exe
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\matrix shuffling\bin\Debug\net5.0\matrix shuffling.deps.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\matrix shuffling\bin\Debug\net5.0\matrix shuffling.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\matrix shuffling\bin\Debug\net5.0\matrix shuffling.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\matrix shuffling\bin\Debug\net5.0\matrix shuffling.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\matrix shuffling\bin\Debug\net5.0\ref\matrix shuffling.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\matrix shuffling\bin\Debug\net5.0\matrix shuffling.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\matrix shuffling\obj\Debug\net5.0\matrix shuffling.csproj.AssemblyReference.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\matrix shuffling\obj\Debug\net5.0\matrix shuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\matrix shuffling\obj\Debug\net5.0\matrix shuffling.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\matrix shuffling\obj\Debug\net5.0\matrix shuffling.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\matrix shuffling\obj\Debug\net5.0\matrix shuffling.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\matrix shuffling\obj\Debug\net5.0\matrix shuffling.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\matrix shuffling\obj\Debug\net5.0\ref\matrix shuffling.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\matrix shuffling\obj\Debug\net5.0\matrix shuffling.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\matrix shuffling\obj\Debug\net5.0\matrix shuffling.genruntimeconfig.cache

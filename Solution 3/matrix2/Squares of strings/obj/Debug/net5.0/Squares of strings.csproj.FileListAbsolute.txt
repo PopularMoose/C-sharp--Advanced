@@ -1,0 +1,16 @@
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\Squares of strings\bin\Debug\net5.0\Squares of strings.exe
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\Squares of strings\bin\Debug\net5.0\Squares of strings.deps.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\Squares of strings\bin\Debug\net5.0\Squares of strings.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\Squares of strings\bin\Debug\net5.0\Squares of strings.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\Squares of strings\bin\Debug\net5.0\Squares of strings.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\Squares of strings\bin\Debug\net5.0\ref\Squares of strings.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\Squares of strings\bin\Debug\net5.0\Squares of strings.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\Squares of strings\obj\Debug\net5.0\Squares of strings.csproj.AssemblyReference.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\Squares of strings\obj\Debug\net5.0\Squares of strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\Squares of strings\obj\Debug\net5.0\Squares of strings.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\Squares of strings\obj\Debug\net5.0\Squares of strings.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\Squares of strings\obj\Debug\net5.0\Squares of strings.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\Squares of strings\obj\Debug\net5.0\Squares of strings.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\Squares of strings\obj\Debug\net5.0\ref\Squares of strings.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\Squares of strings\obj\Debug\net5.0\Squares of strings.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 2\Squares of strings\obj\Debug\net5.0\Squares of strings.genruntimeconfig.cache

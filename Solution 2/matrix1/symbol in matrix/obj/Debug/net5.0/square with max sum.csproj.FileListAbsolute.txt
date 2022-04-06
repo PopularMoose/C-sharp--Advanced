@@ -1,0 +1,16 @@
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\symbol in matrix\bin\Debug\net5.0\square with max sum.exe
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\symbol in matrix\bin\Debug\net5.0\square with max sum.deps.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\symbol in matrix\bin\Debug\net5.0\square with max sum.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\symbol in matrix\bin\Debug\net5.0\square with max sum.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\symbol in matrix\bin\Debug\net5.0\square with max sum.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\symbol in matrix\bin\Debug\net5.0\ref\square with max sum.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\symbol in matrix\bin\Debug\net5.0\square with max sum.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\symbol in matrix\obj\Debug\net5.0\square with max sum.csproj.AssemblyReference.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\symbol in matrix\obj\Debug\net5.0\square with max sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\symbol in matrix\obj\Debug\net5.0\square with max sum.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\symbol in matrix\obj\Debug\net5.0\square with max sum.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\symbol in matrix\obj\Debug\net5.0\square with max sum.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\symbol in matrix\obj\Debug\net5.0\square with max sum.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\symbol in matrix\obj\Debug\net5.0\ref\square with max sum.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\symbol in matrix\obj\Debug\net5.0\square with max sum.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\New folder\Solution 1\symbol in matrix\obj\Debug\net5.0\square with max sum.genruntimeconfig.cache

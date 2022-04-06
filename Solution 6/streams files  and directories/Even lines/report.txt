@@ -1,0 +1,11 @@
+.txt
+--expectedResult.txt - 0.027kb
+--output.txt - 0.000kb
+--text.txt - 0.120kb
+--words.txt - 0.016kb
+.cs
+--Program.cs - 4.805kb
+.csproj
+--Streams,files and directories.csproj - 0.664kb
+.png
+--copyMe.png - 9.136kb

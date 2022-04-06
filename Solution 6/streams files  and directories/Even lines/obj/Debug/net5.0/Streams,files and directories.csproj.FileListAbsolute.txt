@@ -1,0 +1,20 @@
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\Streams,files and directories.exe
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\copyMe.png
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\expectedResult.txt
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\text.txt
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\words.txt
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\Streams,files and directories.deps.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\Streams,files and directories.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\Streams,files and directories.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\Streams,files and directories.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\ref\Streams,files and directories.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\bin\Debug\net5.0\Streams,files and directories.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\obj\Debug\net5.0\Streams,files and directories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\obj\Debug\net5.0\Streams,files and directories.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\obj\Debug\net5.0\Streams,files and directories.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\obj\Debug\net5.0\Streams,files and directories.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\obj\Debug\net5.0\Streams,files and directories.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\obj\Debug\net5.0\ref\Streams,files and directories.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\obj\Debug\net5.0\Streams,files and directories.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\obj\Debug\net5.0\Streams,files and directories.genruntimeconfig.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# advanced\READY UP\streams files  and directories\Even lines\obj\Debug\net5.0\Streams,files and directories.csproj.AssemblyReference.cache
